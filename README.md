@@ -4,3 +4,6 @@
 This repository includes a graph representation of the Jurassic Park SNES game.
 
 ![](./images/JurassicParkOverworld-v1.0.png)
+
+## Access Graph
+![](./JurassicPark.png)
